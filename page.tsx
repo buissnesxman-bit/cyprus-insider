@@ -1,0 +1,1 @@
+export default function Home(){return(<main><h1>Cyprus Insider</h1><p>Your AI Local Guide to Cyprus</p></main>)}

@@ -1,2 +1,1 @@
-# cyprus-insider
-AI Local Guide to Cyprus
+Starter project
